@@ -23,7 +23,7 @@ Both annotators independently assigned the same labels in 889 out of 1,000 cases
 This file contains a framework that was used as a codebook for manually classifying the sentences, providing examples for the individual sentence classes.
 
 ## Article_Information.xlsx
-This file contains references to the 117 articles from AIS8 articles (AIS 2021). We sentences in this repository were sampled from these articles.
+This file contains references to the 117 articles from AIS8 (AIS 2021). The sentences in this repository were sampled from these articles.
 
 
 # References
