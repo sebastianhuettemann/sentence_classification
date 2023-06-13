@@ -19,11 +19,13 @@ This file contains 1,000 sentences from open-source AIS8 articles. We sampled th
 This dataset was annotated by the author of the paper and a master student in Information Systems. 
 Both annotators independently assigned the same labels in 889 out of 1,000 cases. This resulted in a Cohen's Kappa of 0.77 and falls into the category of substantial agreement (Landis & Koch, 1977; SciKit Learn, 2022). The annotators assigned finally agreed-upon labels for sentences with deviating classes throughout discussing the results.
 
-## Sentence Classification Framework
+## Sentence Classification Framework.xlsx
 This file contains a framework that was used as a codebook for manually classifying the sentences, providing examples for the individual sentence classes.
 
 # References
+
 Landis, J.R. & Koch, G.G. (1977), ‘The Measurement of Observer Agreement for Categorical Data’, Biometrics 33(1), p. 159.
+
 SciKit Learn (2022), Cohen’s kappa: a statistic that measures inter-annotator agreement, https://scikit-learn/stable/modules/generated/sklearn.metrics.cohen_kappa_score.html, Accessed: 10.3.2023.
 
 
