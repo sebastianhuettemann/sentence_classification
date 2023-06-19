@@ -11,7 +11,7 @@ The preferred citation for this data is: ...
 # Data Descriptions
 
 ## Dataset_Training.xlsx
-This file contains 3,268 sentences from open-source AIS8 articles (AIS 2021). We sampled these sentences from 117 articles and classified each sentence into one of three categories: belongs_to_article, related_work, and background_information.
+This file contains 3,268 sentences from open-access AIS8 articles (AIS 2021). We sampled these sentences from 117 articles and classified each sentence into one of three categories: belongs_to_article, related_work, and background_information.
 This dataset was annotated by the author of the paper.
 
 ## Dataset_Evaluation.xlsx
