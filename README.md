@@ -15,7 +15,7 @@ This file contains 3,268 sentences from open-access AIS8 articles (AIS 2021). We
 This dataset was annotated by the author of the paper.
 
 ## Dataset_Evaluation.xlsx
-This file contains 1,000 sentences from open-source AIS8 articles (AIS 2021). We sampled these sentences from 117 articles and classified each sentence into one of three categories: belongs_to_article, related_work, and background_information.
+This file contains 1,000 sentences from open-access AIS8 articles (AIS 2021). We sampled these sentences from 117 articles and classified each sentence into one of three categories: belongs_to_article, related_work, and background_information.
 This dataset was annotated by the author of the paper and a master student in Information Systems. 
 Both annotators independently assigned the same labels in 889 out of 1,000 cases. This resulted in a Cohen's Kappa of 0.77 and falls into the category of substantial agreement (Landis & Koch, 1977; SciKit Learn, 2022). The annotators assigned finally agreed-upon labels for sentences with deviating classes throughout discussing the results.
 
