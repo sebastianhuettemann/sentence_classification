@@ -6,7 +6,8 @@ The data can be freely used for scientific projects.
 
 For questions regarding commercial usage, please contact the owner of the repository.
 
-The preferred citation for this data is: ...
+The preferred citation for this data is: Huettemann, S. 2023. "Automated Knowledge Extraction from IS Research Articles Combining Sentence Classification and Ontological Annotation" in International Conference on Business Informatics and Information Systems (WI).
+
 
 # Data Descriptions
 
